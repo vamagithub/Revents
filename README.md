@@ -1,3 +1,19 @@
+Topics:
+1. - [ ] Setting up the developer environment
+2. - [ ] Creating a React application using the create-react-app utility from Facebook
+3. - [ ] Login and Register functionality using Firebase authentication
+4. Adding social login for Facebook and Google into the application
+5. Google maps and Places autocomplete integration
+6. Photo uploading using drag and drop, with resizing and cropping of the images before upload
+7. Adding a live chat system
+8. Paging, Sorting and Filtering with Firestore
+9. Infinite scroll for the pagination
+10. Firestore database design
+11. Creating reusable form components with Formik forms
+12. Building a great looking application with Semantic UI
+13. Many more things as well
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
